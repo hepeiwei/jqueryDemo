@@ -1,0 +1,49 @@
+/**
+* @Desc 仅存放项目头部样式
+* @Date 2018-09-17 00:50:25
+* @Author qitian
+*/
+
+.mody-header{
+    height: 64px;
+    background: #555558;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.mody-header h2{
+    margin-left: 10px;
+    color: #fff;
+    width: 20%;
+    float: left;
+}
+.pull-right{
+    margin: 14px;
+    line-height: 64px;
+}
+.header-navbar{
+    width: 30%;
+    float: right;
+    padding: 12px;
+}
+.header-navbar a{
+    color: #fff;
+}
+.header-navbar ul{
+    min-width: 90px!important;
+    max-width: 160px;
+}
+.nav-pills>li {
+    float: right!important;
+}
+.caret{
+    margin-left: 6px;
+}
+.header-navbar .dropdown-toggle:hover{
+    background: #555558!important;
+}
+.nav .open>.dropdown-toggle, .nav .open>.dropdown-toggle:focus, .nav .open>.dropdown-toggle:hover{
+    background: none!important;
+}
+

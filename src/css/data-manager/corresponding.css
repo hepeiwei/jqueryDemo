@@ -1,0 +1,99 @@
+body{
+    background-color: #fff;
+    height: 100%;
+}
+.child-content{
+    height: 100%;
+}
+.search-content{
+    width: 100%;
+    height: 10%;
+}
+.corresponding-right{
+    height: 100%;
+    margin: 30px;
+}
+#knowledge-table{
+    border-radius: 5px;
+    background-color: #fff;
+}
+.search-head{
+    height: 50%;
+    width: 100%;
+}
+
+.search-from{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+}
+
+#search-submit{
+    width: 20%;
+    height: 30px;
+    float: right;
+    margin-top: -14%;
+    margin-right: -30%;
+    text-align: center;
+}
+.result-num{
+    width: 40%;
+    float: left;
+}
+.operation-btn{
+    float: right;
+    margin-bottom: 2%;
+    width: 25%;
+}
+.operation-btn button{
+    margin-left: 3%;
+}
+.knowledge-list{
+    background-color: #fff;
+}
+.modelBtn{
+    width: 30%;
+    float: right;
+}
+.modelBtn button{
+    width: 40%;
+    margin-left: 5%;
+}
+
+#yuanshi{
+    width: 40%;
+    border-radius:5px;
+    border-style: none;
+    border:1px solid #c8cccf;
+}
+#zhanshi{
+    width: 50%;
+    border-radius:5px;
+    border-style: none;
+    border:1px solid #c8cccf;
+}
+.corresponding-select{
+    width: 40%;
+    border-radius:5px;
+    border-style: none;
+    border:1px solid #c8cccf;
+}
+
+
+.btn-left{
+    float: left;
+}
+.btn-right{
+    float: right;
+}
+.search-from{
+    width: 25%;
+}
+
+.pagination-info{
+    display: none;
+}
+
+
+
+
